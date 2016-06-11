@@ -7,16 +7,16 @@ define('REDIRECT_URL', 'https://secure.ecopayz.com/PrivateArea/WithdrawOnlineTra
 /**
  * Merchant ID (MID) provided bt ecoPayz.
  */
-define('PAYMENT_PAGE_ID', '1897');
+define('PAYMENT_PAGE_ID', '');
 /**
  * The merchant's ecoPayz account number which will be credited by the purchase
  * transaction. The number is provided by ecoPayz.
  */
-define('MERCHANT_ACCOUNT_NUMBER', '110447');
+define('MERCHANT_ACCOUNT_NUMBER', '');
 /**
  * The merchant password.
  */
-define('MERCHANT_PASSWORD', '4jO2EXZMpmou');
+define('MERCHANT_PASSWORD', '');
 /**
  * Invalid parameters received by the ecoPayz
  * payment page, Status 1.
